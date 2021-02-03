@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Consulnet HERENCIA",
+    'name': "Consulnet HERENCIA.",
     'summary': """
         Herencia para Consulnet
 	""",
